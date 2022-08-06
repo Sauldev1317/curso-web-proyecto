@@ -1,0 +1,43 @@
+[
+    {
+        "name": "El pistolero",
+        "author": "Stephen king",
+        "img": "http://localhost/proyecto-curso/resources/img/pistolero.jpg",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }, 
+
+    {
+        "name": "El umbral de la noche",
+        "author": "Stephen king",
+        "img": "http://localhost/proyecto-curso/resources/img/umbral.jpg",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+
+    {
+        "name": "Apocalipsis",
+        "author": "Stephen king",
+        "img": "http://localhost/proyecto-curso/resources/img/apocalipsis.jpg",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+
+    {
+        "name": "La milla verde",
+        "author": "Stephen king",
+        "img": "http://localhost/proyecto-curso/resources/img/milla.jpg",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+
+    {
+        "name": "It",
+        "author": "Stephen king",
+        "img": "http://localhost/proyecto-curso/resources/img/it.jpg",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+
+    {
+        "name": "Misery",
+        "author": "Stephen king",
+        "img": "http://localhost/proyecto-curso/resources/img/misery.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+]
